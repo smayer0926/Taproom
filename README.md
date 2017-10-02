@@ -11,7 +11,7 @@ _The purpose of this project was to further learn angular skills and apply them 
 ## Setup Requirements
 * Clone the repo from git hub using:
 ````
-$ git clone https://github.com/smayer0926/Zoo
+$ git clone https://github.com/smayer0926/Taproom
 ````
 * Open the project in your favorite editor, this was created in Atom.
 * Experiment!
